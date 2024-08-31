@@ -1,0 +1,182 @@
+ID	SKU	Name	Attribute 1 default
+5304	6094	HOME BED RAIL WITH LEGS	Nova
+5455	8845S	Short Length, Compression Stockings, 30-40 mmHg (Truform 8845s)	TRUFORM
+5503	8808BL	Knee High, Surgical Compression Stockings, 18 mmHg Anti-Embolism, Black (Truform 8808)	TRUFORM
+8789	4278BL	STAR 8 Rollator Walker, 8" Wheels & Petite Size, Blue	Nova
+8793	4279BL	STAR Heavy Duty Petite Rollator, Blue	Nova
+15496	6065	Step Stool	Nova
+15497	PA-1031	Heavy Duty Gait Belt 36" Blue	
+15498	PA-1034	Gait Belt 52" Metal Buckle Blue	Nova
+15530	PA-B01	Hand Exercise Squeeze Ball - Soft Orange	Nova
+15531	PA-1003	Sock Aid - Terry Cloth	Nova
+15532	PA-1005	32" Elastic Shoelace Black	Nova
+15533	PA-1002	Plastic Shoehorn 24"	Nova
+15536	PA-1000	Deluxe Hip Kit	Nova
+15564	D-24	Reacher 24" Dragon	Nova
+15565	8101	Sitz Bath	Nova
+15566	8107-R	Bed Pan	Nova
+15567	8105M-R	Male Urinal with Cover	Nova
+15569	8113-R	Arm Cast Protector Youth Medium 18"	Nova
+15570	UP-1724	Underpad (17" X 24") Reusable	Nova
+15571	6070	Overbed Table Standard	Nova
+15646	8700-R	Folding Commode	Nova
+15688	7180L	Hammertone Wheelchair - 18" Lightweight With Flip Back Detachable Arms & Swing Away Footrest	Nova
+15689	319B	Transport Chair  - 19" with Swing Away Footrests	Nova
+15702	4329BL	Monarch Rollator	Nova
+15703	4801BL	Phoenix Rise UP Rollator Blue	Nova
+15722	4218BL	Zoom 18 Rolling Walker - Blue	Nova
+15724	2609-R	HAPPY TUSH GEL and FOAM CUSHION	Nova
+15743	1090SI	Extra Tall Walking Cane with Offset Handle with Reflector, Silver	Nova
+15744	7005GR	Tips For Crutch Gray	Nova
+15745	7002GR	Hand Grip Cushion For Crutch Gray	Nova
+15746	7001GR	Underarm Pad For Crutch Gray	Nova
+15747	7012-R	Crutch Cover Set - Fleece (2 Pairs A Set)	Nova
+15748	332R	Heavy Duty Transport Chair with 12" Wheels, Hand Brakes, Removable Arms - 22" Extra Wide with Swing Away	Nova
+15749	2688-R	Elevating Knee Wedge Pillow - 17"	Nova
+15750	2685-R	Leg Wedge - 8" White	Nova
+15772	2699-R	Bed Wedge With Half Roll Pillow	Nova
+15773	2690BL-R	Bed Wedge - 7.5" - Blue	Nova
+15774	2680BL-R	Folding Bed Wedge - 7.5" - Blue	Nova
+15775	2622-R	Knee Pillow Cushion - Small	Nova
+15777	2696F-R	Full Roll Pillow - Fleece	Nova
+15778	2627-R	Heel Protector With Velour Cover Blue	Nova
+15819	2693-R	Cervical Neck Support Collar - 2.5"	Nova
+15820	2643BK-R	Travel Neck Pillow Black	Nova
+15821	2624-R	Arm Cover - Fleece	Nova
+15822	2611BK-16	16" Back Foam Cushion With Lumbar Support and Stabilization Board	Nova
+15823	2679BL-R	Lumbar Cushion - Blue	Nova
+15825	2701-R	Inflatable Rubber Cushion	Nova
+15859	2640-R	Car Seat Cushion Swivel	Nova
+15860	4060	Folding Side Walker	Nova
+15861	2674-R	18" Molded Foam Comfort Ring - Blue	Nova
+15864	2647CG-R	Coccyx Gel Foam Car and Seat Cushion	Nova
+15865	2650-3	3" Convoluted Foam Cushion For 18" X 16" Wheelchair	Nova
+15866	2601F-R	Gel Foam Seat Cushion With Fleece Top	Nova
+15904	2603C-3-1616	3" Coccyx Gel Foam Cushion For 16" X 16" Wheelchair	Nova
+15905	2601-2-1616	2" Gel Foam Cushion For 16" x 16" Wheelchair	Nova
+15906	2664-3	3" Foam Cushion With Cover	Nova
+15907	9601W-R	Bath Seat Cushion - White	Nova
+15911	9306-R	Holder for Hand Held Shower	Nova
+15943	9301-R	2 Function Hand Held Shower Set	Nova
+15945	9350-R	Bath Mat With Suction Grip White Shell	Nova
+15946	8216B-R	16" Suction Cup Balance Assist Bar Bronze	Nova
+15950	2629-R	2" Padded Toilet Seat Riser	Nova
+15982	8343-R	Toilet Seat Riser With Arms - Elongated	Nova
+15988	9013	Heavy Duty Bath Seat	Nova
+15989	9010	Bath Seat	Nova
+16017	9037	Bath Seat With Arms & U-Shaped Hygienic Cutout	Nova
+16018	9026	Bath Seat With Arms & Back	Nova
+16019	9005	Bath Stool	Nova
+16021	TKW-FC	TKW FLEECE COVER	Nova
+16022	377B-R	Lightweight Transport Chair with Removable Wheels - 19" with Swing Away Footrests - Blue	Nova
+16023	352B	Lightweight Transport Chair with 12" Rear Wheels, Hand Breaks, Removeable Arms - 19" with Swing Away Foot	Nova
+16024	330B	Lightweight Transport Chair with Hand Brakes - 19" with Swing Away Footrests - Blue	Nova
+16064	379B	Ultra Lightweight Transport Chair - 19"  with Swing Away Footrest - Blue	Nova
+16065	329B	Lightweight Transport Chair - 19"  with Swing Away Footrest - Blue	Nova
+16066	3070BS	Compact Travel Cane with Strap, Butterfly Symphony	Nova
+16067	4216BL	The Mighty Mack Heavy Duty Rolling Walker - Blue	Nova
+16068	4328BL	Express Rollator Blue	Nova
+16069	4263BL	STAR 8 DX Heavy Duty Rollator, 450 lb. Weight Capacity, Blue	Nova
+16070	4262BL	STAR 8 DX Rollator - Blue	Nova
+16071	4201BL	Cruiser II Rolling Walker - Blue	Nova
+16109	4200CRD	Cruiser Classic Rolling Walker- Red	Nova
+16122	4202CBK	GetGO Standard Rolling Walker, Black	Nova
+16123	S1070BK	SugarCane Black	Nova
+16124	436T	Folding Walker Tray	Nova
+16125	438B	Walker Basket with Plastic Liner	Nova
+16126	4081BW5	Folding Walker with 5" Wheels, Walker Skis & Mobility Bag	Nova
+16127	4070DW5	Folding Walker With 5" Wheels - Adult	Nova
+16128	4080BW5	Folding Walker With 5" Wheels - Blue	Nova
+16167	4095DW5	Heavy Duty Folding Walker With 5" Wheels	Nova
+16168	4090	Folding Walker 2 Button Standard Adult	Nova
+16170	2061BK-L	Cane With Palm Handle (Left) - Black	Nova
+16171	7210	Heavy Duty Crutch Standard	Nova
+16172	7710P	Forearm Crutch - Standard	Nova
+16173	2025	Cane T-Grip Blue & Pink Flowers On Black	Nova
+16174	7300	Crutch Aluminum Quick Adjustable - Tall	Nova
+16196	7201	Crutch Aluminum Pushbutton- Standard	Nova
+16197	5710BK	Bariatric Quad Cane Large Base With Offset Handle - Black	Nova
+16198	5610BK	Quad Cane- Large  Base With Offset Black	Nova
+16199	5620BK	Quad Cane Small Base With Offset, Black	Nova
+16202	1060BK	Offset Cane with Strap, Black	Nova
+16232	3040BK	Folding Cane Soft Grip Black	Nova
+16233	3010BK	Folding Cane with Wood Grip Handle, Black	Nova
+16234	3060BK	Folding Cane with Offset Handle, Black	Nova
+16235	QT3010BK	Folding Cane with Mini Quad Tip, Black	Nova
+16247	4001WP	Hanging Mobility Pouch - Black	Nova
+16248	4001AP	Bag for Folding Walker - Aloha Pink	Nova
+16249	4007AB	Seat and Back Cover For Rolling Walkers - Aloha Blue	Nova
+16250	4008BB	Mobility Handbag - Boho Blossoms	Nova
+16269	4000TB	Travel Bag for Walker & Transport Chair	Nova
+16577	303	Wrist-Thumb Splint, Wrap Style Support, Neoprene, Large	OTC
+16596	438	CHAMPION Elastic Wrist Support Compression Sleeve with encircling Strap, Grey	CHAMPION
+16606	304	Neoprene Wrist Splint	OTC
+16607	322	Kidsline Wrist Splint Soft Foam Adjustable Support, White (Left Hand), Pediatric	OTC
+16608	450	Airmesh Wrist Splint	CHAMPION
+16670	975	Universal Cervical Collar	TRUFORM-OTC
+16681	305	Neoprene Thumb Splint	OTC
+16690	315	Neoprene Thigh Support	OTC
+16691	810	Thigh High Length Open Toe Surgical Stockings	TRUFORM
+16700	848	30-40 mmHg Compression Stockings for Men and Women, Thigh High Length, Dot-Top, Open Toe	TRUFORM
+16701	868	Thigh High, Open Toe, Stockings with Stay-Up Top, 20-30 mmHg	TRUFORM
+16710	264	Thigh High Closed Toe Stockings / Ladies' Sheer	TRUFORM
+16711	362	Women's Compression Stockings, 20-30 mmHg, Thigh High Length, Open Toe	TRUFORM
+16712	364	Thigh High, Microfiber Stockings with Stay-Up Top, 20-30 mmHg (Truform 364)	TRUFORM
+16713	374	Truform Compression Stockings / 15-20 mmHg / Opaque Microfiber / Thigh High Regular price	TRUFORM
+16723	272	SUSPENSORY PERI STRAPS	TRUFORM-OTC
+16724	243	SUSPENSORY HEAVY DUTY	TRUFORM-OTC
+16731	452	SUSPENSORY BLACK	CHAMPION
+16732	270	SUSPENSORY (TRUFORM)	TRUFORM-OTC
+16733	52	Suspensory	CHAMPION
+16739	81	Sports Support	CHAMPION
+16740	321	KidsLine Cervical Collar - Soft Foam	OTC
+16756	531	SNG SPRING TRUSS ING PAD	TRUFORM-OTC
+16799	407	Lightweight Adjustable Sacro Brace	CHAMPION
+16849	326	Neoprene Patellar Stabilizer	OTC
+16850	265	Pantyhose Trusheer 20-30mmHg: 30 Denier Look	TRUFORM
+16851	365	Microfiber Pantyhose, 20-30 mmHg (Truform 365)	TRUFORM
+16852	375	0375 / Truform Compression Pantyhose / 15-20 mmHg / Opaque Microfiber	TRUFORM
+16869	818	Truform-OTC AK Suspension Sleeve, Above Knee Style for Prosthetics, Neoprene	TRUFORM-OTC
+16878	819	NEOP SUSP CUFF LINED/UNLINED	TRUFORM-OTC
+16904	488	Champion Arthritis Gloves	XS
+16937	476	0476 / MULTILAYER KNEE WRAP WITH STABILIZER PAD	CHAMPION
+16946	57	57 / CRISS-CROSS KNEE SUPPORT	CHAMPION
+16947	141	Neoprene Knee Sleeve - Oval Pad - 0141	OTC
+16956	436	0436 / ELASTIC KNEE SUPPORT	CHAMPION
+16957	435	0435 / ELASTIC KNEE SUPPORT WITH FLEXIBLE STAYS	CHAMPION
+16958	472	0472 / AIRMESH KNEE BRACE WITH FLEXIBLE STAYS	CHAMPION
+16959	475	0475 / AIRMESH KNEE SUPPORT WITH STABILIZER PAD	CHAMPION
+16967	308	Neoprene Knee Stabilizer - Spiral Stays - 308	OTC
+16968	310	Neoprene Knee Stabilizer - Hinged Bars - 310	OTC
+16969	316	KidsLine Knee Sleeve - Open Patella - 316	OTC
+16978	253	Knee High, Sheer Stockings, 30-40 mmHg (Truform 253)	TRUFORM
+16979	263	Knee High, Sheer Stockings, 20-30 mmHg (Truform 263)	TRUFORM
+16980	361	Knee High, Open Toe, Microfiber Stockings, 20-30 mmHg (Truform 361)	TRUFORM
+16981	363	Knee High, Microfiber Stockings, 20-30 mmHg (Truform 363)	TRUFORM
+16990	371	Knee High, Open Toe Microfiber Stockings, 15-20 mmHg (Truform 371)	TRUFORM
+16991	373	Knee High, Microfiber Stockings, 15-20 mmHg (Truform 373)	TRUFORM
+16992	72	CHAMPION Knee Brace Flexible Stays Knit Elastic, White	CHAMPION
+16993	208	0208 / PROFESSIONAL QUALITY LIGHTWEIGHT INDUSTRIAL BELT	CHAMPION
+16994	205	205 / PROFESSIONAL QUALITY INDUSTRIAL BELT	CHAMPION
+17003	405	HERNIA BELT FOR SINGLE OR DOUBLE HERNIA	CHAMPION
+17004	5	HERNIA BELT	CHAMPION
+17013	762	Women's Garter Belt for Compression Stockings (Truform 762)	TRUFORM
+17014	765	Pendulous Figure Garter Belt (Truform 765)	TRUFORM
+17023	760	3" Classic Garter Belt (Truform 760)	TRUFORM
+17060	439	Elastic Elbow Support Gray	CHAMPION
+17061	419	Airmesh Elbow Support	CHAMPION
+17062	420	Airmesh Elbow Support With Strap	CHAMPION
+17063	443	Airmesh Tennis Elbow Strap	CHAMPION
+17075	757	Truform Donning Gloves	TRUFORM
+17076	752	Truform Donner Grips	TRUFORM
+17109	156	Cast Protector Half Leg	CHAMPION
+17110	158	Cast Protector Half Arm	CHAMPION
+17111	157	Cast Protector Full Leg	CHAMPION
+17112	159	Cast Protector Full Arm	CHAMPION
+17153	865	Knee High, Open Toe Stockings, 20-30 mmHg (Truform 865)	TRUFORM
+17181	320	Navy KidsLine Cradle Arm Sling-320	OTC
+17196	64	CHAMPION Lightweight Brace Knit Elastic Ankle Support, Beige, Large	CHAMPION
+17197	461	AIRMESH FIGURE 8 ANKLE SUPPORT	CHAMPION
+17198	463	AIRMESH ANKLE SUPPORT WITH FLEXIBLE STAYS	CHAMPION
+17199	462	0462 /AIRMESH ANKLE SUPPORT	CHAMPION
+17217	63	Champion Ankle Brace, Open Heel, Flexible Stays, Knit Elastic, Medium	CHAMPION
